@@ -1,22 +1,18 @@
-# Material Mkdocs
+# Hello, Earthlings! 📄
 
-This example implements [Mkdocs](https://github.com/mkdocs/mkdocs) with a custom theme manager [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material) in a containered version
+I'm Ekawa, a code-wizard and Python whisperer, who's been casting programming spells for 5 years now. Currently, I'm riding solo as a freelance developer, navigating the digital cosmos. My magic lies in Backend development, and I speak the ancient tongue of Python fluently. Django and FastAPI are my trusty sidekicks, and Docker along with Linux environments are my playgrounds. You've just beamed onto the mothership of my documentation, so feel free to explore and have a blast!
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/XOT3Se?referralCode=zOAgi6)
+# My Digital Footprints 🚀
+- Personal GitHub: [Where I keep my coding spellbook](https://github.com/EkawaD)
+- Freelance GitHub: [My armory of professional magic tricks](https://github.com/lance-kawa)
+- Malt: [The tavern where I meet fellow adventurers](https://www.malt.fr/profile/bastienederhy?overview)
+- Personal Portfolio: [A gallery of my most epic quests]
+- Agency Portfolio: [My team-up chronicles]
 
-## ✨ Features
+# The Freelance Adventure ⚔
+*Etymology Time!* Did you know 'freelance' originally referred to medieval mercenaries, who would fight for whoever paid them the most gold? Pretty badass, right? Well, I’m like those knights of old, but instead of a sword, I wield code. And instead of a horse, I ride on endless cups of coffee. I battle bugs, conquer code, and quest for the perfect algorithm. Freelancing isn’t just a job; it’s an epic adventure!
 
-Write your documentation in Markdown and create a professional static site for your Open Source or commercial project in minutes – searchable, customizable, more than 60 languages, for all devices
+# Treasures You'll Discover Here 🏴‍☠️
 
-Check out the demo – squidfunk.github.io/mkdocs-material. 
-
-## Quickstart
-
-Edit the `mkdocs.yml` to customize your documentation, learn more on [squidfunk.github.io/mkdocs-material][Material for MkDocs]
-
-``` yaml
-theme:
-  name: material
-```
-
-Edit the `docs/index.md` and start writing amazing documentation 
+- Docker-compose [Spells](docker-compose.spells.md): Templates for your most commonly summoned services!
+- ...

@@ -1,14 +1,9 @@
-# Material Mkdocs
+# Docs for Kawa
 
 This example implements [Mkdocs](https://github.com/mkdocs/mkdocs) with a custom theme manager [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material) in a containered version
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/mkdocs)
 
-## ✨ Features
-
-Write your documentation in Markdown and create a professional static site for your Open Source or commercial project in minutes – searchable, customizable, more than 60 languages, for all devices
-
-Check out the demo – squidfunk.github.io/mkdocs-material. 
 
 ## Quickstart
 
